@@ -37,7 +37,7 @@ print("User has entered:",username.text)
 print("This line will execute only if Test case passes")
 driver.close()
 
-#Tc_003
+# Tc_003
 print("Verify the Add button by adding new customers")
 #driver=webdriver.Chrome();
 #driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
